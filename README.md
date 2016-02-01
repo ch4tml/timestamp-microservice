@@ -1,22 +1,9 @@
+#Timestamp Microservice
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Built as part of Free Code Camp's curriculum. API Challenge series - [Timestamp Microservice] (http://www.freecodecamp.com/challenges/timestamp-microservice)
 
+Based on the example service [provided] (https://timestamp-ms.herokuapp.com)
 
-Welcome to your Node.js project on Cloud9 IDE!
+## Author 
 
-This chat example showcases how to use `socket.io` with a static `express` server.
-
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Built by [ch4tml](https://github.com/ch4tml/). Started on 29th January 2016 and finished on 1st February 2016.
