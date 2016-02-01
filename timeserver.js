@@ -1,14 +1,12 @@
-"use strict";
+/*"use strict";
 
 var net = require("net");
 
 module.exports = function(portNumber, callback){
-    var portNumber = process.argv[2];
-    //var portNumber = process.argv[2];
     var server = net.createServer(function(socket){
         return callback(socket.end(writeDate()));
     });
-    server.listen(portNumber);  
+    server.listen(8080);  
 
     function writeDate(){
         var date = new Date();
@@ -29,4 +27,4 @@ module.exports = function(portNumber, callback){
             string = "0" + string;
         return string;
     }
-}
+}*/
