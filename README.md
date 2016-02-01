@@ -1,8 +1,8 @@
 #Timestamp Microservice
 
-Built as part of Free Code Camp's curriculum. API Challenge series - [Timestamp Microservice] (http://www.freecodecamp.com/challenges/timestamp-microservice)
+Built as part of Free Code Camp's curriculum. API Challenge series - [Timestamp Microservice] (http://www.freecodecamp.com/challenges/timestamp-microservice).
 
-Based on the example service [provided] (https://timestamp-ms.herokuapp.com)
+Based on the example service [provided] (https://timestamp-ms.herokuapp.com).
 
 ## Author 
 
